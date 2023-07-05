@@ -1,7 +1,7 @@
 /*
  * @lc app=leetcode.cn id=445 lang=cpp
  *
- * [445] 两数相加 II
+ * [445] 两数相加 II 
  */
 
 // @lc code=start
@@ -39,7 +39,7 @@ public:
             int res=temp%10;
             ListNode* node=new ListNode(res);
             node->next=ans;
-            ans=node;
+            ans=node;//;dsjfiaisdfija;osdijfejadflkjsdfw
         }
         return ans;
     }
