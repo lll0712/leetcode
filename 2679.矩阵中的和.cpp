@@ -1,7 +1,7 @@
 /*
  * @lc app=leetcode.cn id=2679 lang=cpp
  *
- * [2679] 矩阵中的和
+ * [2679] 矩阵中的和  
  */
 
 // @lc code=start
